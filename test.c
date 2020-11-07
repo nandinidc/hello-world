@@ -2,6 +2,6 @@
 
 int main()
 {
-    /* code */
+    print("Hello world");
     return 0;
 }
